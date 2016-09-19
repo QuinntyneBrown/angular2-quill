@@ -1,4 +1,4 @@
-require("./lib/quill.min.js");
+require("../lib/quill.min.js");
 
 import '@angular/platform-browser';
 import '@angular/platform-browser-dynamic';
